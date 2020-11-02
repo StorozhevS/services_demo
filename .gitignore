@@ -14,7 +14,7 @@
 /android/app/src/profile/
 # java
 kotlin
-res
+# res
 
 # IntelliJ related
 *.iml

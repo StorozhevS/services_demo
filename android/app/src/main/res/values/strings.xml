@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">com.example.services_demo/service</string>
+    <string name="channel_description">channel_descr</string>
+</resources>
